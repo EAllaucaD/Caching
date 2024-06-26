@@ -1,7 +1,6 @@
 {
   "name": "caching",
   "version": "1.0.0",
-  "description": "",
   "main": "./server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/EAllaucaD/Caching/issues"
   },
-  "homepage": "https://github.com/EAllaucaD/Caching#readme"
+  "homepage": "https://github.com/EAllaucaD/Caching#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-cache": "^5.1.2"
+  }
 }
